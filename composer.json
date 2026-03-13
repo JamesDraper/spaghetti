@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Spaghetti\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=8.5.1"
+    }
+}
