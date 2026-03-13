@@ -1,8 +1,6 @@
 {
     "autoload": {
-        "psr-4": {
-            "Spaghetti\\": "src"
-        }
+        "files": ["init.php"]
     },
     "require": {
         "php": ">=8.5.1"
